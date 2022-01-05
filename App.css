@@ -1,0 +1,15 @@
+:root {
+    --primary: blue;
+    --secondory:green;
+    --dark:#131A26; 
+    --light:#EEEEEE 
+    --grey:#888888; 
+  
+    --font:'arial'; 
+
+  }  
+
+  
+  h1{
+    color: var(--secondory);
+  }
